@@ -9,3 +9,5 @@ Use figma to get the height and width of each element
 Move inline styles to styles.css
 
 Add appropriate fonts.
+
+MOST IMPORTANT: Finish the page
